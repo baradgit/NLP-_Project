@@ -23,7 +23,7 @@ markdown-it-py
 MarkupSafe
 matplotlib
 mdurl
-numpy==2.0.0
+numpy==1.26.4
 packaging
 pandas
 pillow
