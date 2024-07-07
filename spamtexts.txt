@@ -1,0 +1,26 @@
+Spams:
+
+
+Subject: Urgent: Claim your prize now! Congratulations! You have won a free trip to Hawaii. Claim your prize now by clicking the link below. Don't miss out on this amazing opportunity to enjoy a luxurious vacation in paradise. Act fast before the offer expires!
+
+
+
+Subject: Urgent: Your Account Security Alert!
+
+Dear Customer, we have detected unauthorized access attempts on your account. Please verify your identity immediately by clicking the link below. Failure to do so within 24 hours will result in account suspension. Protect your sensitive information now to avoid financial loss.
+
+
+
+
+Subject: Urgent: Your Package Delivery Status
+
+Dear Customer, your package delivery has been delayed. Please click the link to track your shipment and reschedule delivery. Act quickly to avoid additional fees. We apologize for any inconvenience caused and appreciate your prompt attention to this matter.
+
+
+non spams:
+
+
+Subject: Reminder: Team Meeting Tomorrow Hello team members, this is a reminder that our weekly team meeting is scheduled for tomorrow at 10 AM in Conference Room A. Please come prepared to discuss the latest project updates and upcoming tasks. Your attendance is highly appreciated.
+
+
+Subject: Update on Project Status Hi team, I wanted to provide you with an update on the current status of Project X. Please find the attached report for details. We are making good progress and are on track to meet our milestones. Thank you for your hard work and dedication.
