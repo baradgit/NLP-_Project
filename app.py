@@ -49,6 +49,9 @@ model = pickle.load(open(model_path, 'rb'))
 #model = pickle.load(open('model.pkl','rb'))
 
 st.title("Email/SMS Spam Classifier")
+st.title("Spam text link")
+link = '[Click here](https://github.com/baradgit/NLP_Project/blob/main/spamtexts.txt)'
+st.markdown(link, unsafe_allow_html=True)
 
 input_sms = st.text_area("Enter the message")
 
