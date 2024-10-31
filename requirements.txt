@@ -1,6 +1,7 @@
 altair
 attrs
 blinker
+altair>=4.0
 cachetools
 certifi
 charset-normalizer
