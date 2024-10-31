@@ -29,7 +29,7 @@ pandas
 pillow
 pip
 pkgutil_resolve_name
-protobuf
+protobuf==3.20.3
 pyarrow
 pydeck
 Pygments
